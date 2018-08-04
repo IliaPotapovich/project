@@ -1,0 +1,2 @@
+2018:07-29 23:16:13 [main] ERROR com.potapovich.project.pool.ConnectionPool - SQLException Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2018:07-29 23:16:35 [main] ERROR com.potapovich.project.pool.ConnectionPool - SQLException Could not create connection to database server. Attempted reconnect 3 times. Giving up.
